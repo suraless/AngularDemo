@@ -20,7 +20,7 @@ import { CoursesService } from './courses.service';
   ],
   providers: [
     CoursesService
-  ], //*S* All dependencies goes here.
+  ], //*S* All dependencies classes (ex. Service, helper classes) goes here.
   bootstrap: [AppComponent]
 })
 export class AppModule { }
