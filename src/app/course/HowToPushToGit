@@ -1,0 +1,15 @@
+1.Install Git.
+2.Create Repo in Git.
+3.Goto Dir which you want to commit.
+4.Only if you are behind proxy
+4.a - git config --global http.proxy http://sa315193:Shevantai%401984@proxy4.wipro.com:8080
+5.git init
+6.git add .
+7.git config --global user.name "Sandip"
+8.git config --global user.email "suraless@gmail.com"
+9.git commit -m "First commit"
+10.git remote add origin https://github.com/suraless/AngularDemo.git
+11.git push origin master
+
+
+
